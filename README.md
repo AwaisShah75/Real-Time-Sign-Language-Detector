@@ -8,13 +8,12 @@
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
-python -m venv tfod
+python -m venv sdts
 </pre> 
 <br/>
 <b>Step 3.</b> Activate your virtual environment
 <pre>
-source tfod/bin/activate # Linux
-.\tfod\Scripts\activate # Windows 
+.\stds\Scripts\activate # Windows 
 </pre>
 <br/>
 <b>Step 4.</b> Install dependencies and add virtual environment to the Python Kernel
@@ -39,3 +38,4 @@ If not, resolve installation errors by referring to the <a href="https://github.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics. 
 <img src="https://i.imgur.com/K0wLO57.png"> 
+
