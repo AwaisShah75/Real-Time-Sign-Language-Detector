@@ -38,4 +38,12 @@ If not, resolve installation errors by referring to the <a href="https://github.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics. 
 <img src="https://i.imgur.com/K0wLO57.png"> 
+<br /><br/>
+<b>🙏 Acknowledgments</b> 
+
+TensorFlow Object Detection API
+TensorFlow Model Zoo
+LabelImg annotation tool
+OpenCV community
+
 
